@@ -1,0 +1,4 @@
+package: github.com/surajssd/study/deleteprojectcontroller
+import:
+- package: github.com/openshift/client-go
+  version: 5039916f9ac015e14899959fb6fc62945578657e
